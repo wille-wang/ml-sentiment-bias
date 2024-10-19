@@ -34,6 +34,6 @@ code .
 devcontainer open .  # Install `ms-vscode-remote.remote-containers` in VS Code first
 ```
 
-## References
+## Background
 
 This project was modified from Assignment 3 of [Introduction to Machine Learning](https://handbook.unimelb.edu.au/2023/subjects/comp90049) (COMP90049) at the University of Melbourne, Semester 2, 2023.
