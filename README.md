@@ -23,6 +23,8 @@ This experiment investigates potential bias in several machine learning models a
 └── requirements.txt
 ```
 
+The validation set is used as a test set in this project because the original test set is unlabeled.
+
 ## Usage
 
 It is recommended to run the code for this project within a development container in VS Code.
